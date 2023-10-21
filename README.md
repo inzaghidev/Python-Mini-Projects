@@ -17,7 +17,7 @@ Inilah beberapa Akun kami di Inzaghi's Media dan Link Inzaghi's Blog :
 
 ## Project Lists
 
-Berikut ini adalah beberapa Daftar Program Sederhana menggunakan Bahasa Python :
+Berikut ini adalah beberapa Daftar Program Sederhana menggunakan Bahasa Python (Input-Output) :
 1. Luas Segitiga
 2. Luas dan Keliling Persegi
 3. Luas dan Keliling Persegi Panjang
