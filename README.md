@@ -1,4 +1,4 @@
-# Python-Source-Code-Mini-Projects
+# Python Mini Projects
 
 ![Python Source Code Mini Projects](/images/python-source-code-mini-projects.png)
 
